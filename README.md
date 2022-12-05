@@ -1,4 +1,4 @@
-<h1 align="center"> Video Room </h1>
+<h1 align="center"> Crud Clinica </h1>
 
 Este projeto foi feito em React Js + Node JS
 
